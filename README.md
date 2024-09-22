@@ -1,4 +1,6 @@
-# Gradient_Descent
+# Gradient Descent
+
+Gradient descent is an optimization algorithm used to minimize the loss function by adjusting the model parameters. Here's how it works in general terms:
 
 Code Explanation:
 1. Data: We use the inputs and targets arrays to train the model.
